@@ -136,7 +136,7 @@ From [`common_functions.py`](common_functions.py)【30†source】:
 
 ## 📸 Screenshots
 ### GCP Artifact Registry
-![Artifact Registry](GCP.png)
+![Artifact Registry](GCP .png)
 
 ### Prediction Page
 ![Prediction Page](Prediction%20pages.png)
