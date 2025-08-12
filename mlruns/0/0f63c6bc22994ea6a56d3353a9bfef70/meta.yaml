@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLops/MLOps%20Project%201/mlruns/0/0f63c6bc22994ea6a56d3353a9bfef70/artifacts
+end_time: 1754976065619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f63c6bc22994ea6a56d3353a9bfef70
+run_name: flawless-rook-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754976058089
+status: 3
+tags: []
+user_id: Kirtish Wankhedkar
